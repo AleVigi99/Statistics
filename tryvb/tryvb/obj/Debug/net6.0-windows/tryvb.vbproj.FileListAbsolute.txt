@@ -1,0 +1,17 @@
+C:\Users\Alessio.MININT-KSCPMA4\source\repos\tryvb\tryvb\obj\Debug\net6.0-windows\tryvb.vbproj.AssemblyReference.cache
+C:\Users\Alessio.MININT-KSCPMA4\source\repos\tryvb\tryvb\obj\Debug\net6.0-windows\tryvb.Form1.resources
+C:\Users\Alessio.MININT-KSCPMA4\source\repos\tryvb\tryvb\obj\Debug\net6.0-windows\tryvb.vbproj.GenerateResource.cache
+C:\Users\Alessio.MININT-KSCPMA4\source\repos\tryvb\tryvb\obj\Debug\net6.0-windows\tryvb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alessio.MININT-KSCPMA4\source\repos\tryvb\tryvb\obj\Debug\net6.0-windows\tryvb.AssemblyInfoInputs.cache
+C:\Users\Alessio.MININT-KSCPMA4\source\repos\tryvb\tryvb\obj\Debug\net6.0-windows\tryvb.AssemblyInfo.vb
+C:\Users\Alessio.MININT-KSCPMA4\source\repos\tryvb\tryvb\obj\Debug\net6.0-windows\tryvb.vbproj.CoreCompileInputs.cache
+C:\Users\Alessio.MININT-KSCPMA4\source\repos\tryvb\tryvb\bin\Debug\net6.0-windows\tryvb.exe
+C:\Users\Alessio.MININT-KSCPMA4\source\repos\tryvb\tryvb\bin\Debug\net6.0-windows\tryvb.deps.json
+C:\Users\Alessio.MININT-KSCPMA4\source\repos\tryvb\tryvb\bin\Debug\net6.0-windows\tryvb.runtimeconfig.json
+C:\Users\Alessio.MININT-KSCPMA4\source\repos\tryvb\tryvb\bin\Debug\net6.0-windows\tryvb.dll
+C:\Users\Alessio.MININT-KSCPMA4\source\repos\tryvb\tryvb\bin\Debug\net6.0-windows\tryvb.pdb
+C:\Users\Alessio.MININT-KSCPMA4\source\repos\tryvb\tryvb\obj\Debug\net6.0-windows\tryvb.dll
+C:\Users\Alessio.MININT-KSCPMA4\source\repos\tryvb\tryvb\obj\Debug\net6.0-windows\refint\tryvb.dll
+C:\Users\Alessio.MININT-KSCPMA4\source\repos\tryvb\tryvb\obj\Debug\net6.0-windows\tryvb.pdb
+C:\Users\Alessio.MININT-KSCPMA4\source\repos\tryvb\tryvb\obj\Debug\net6.0-windows\tryvb.genruntimeconfig.cache
+C:\Users\Alessio.MININT-KSCPMA4\source\repos\tryvb\tryvb\obj\Debug\net6.0-windows\ref\tryvb.dll
